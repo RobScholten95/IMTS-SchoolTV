@@ -1450,3 +1450,114 @@ Reference List:
 [2022.12.20-14.09.33:219][ 72]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/Militair_wagon_v3AE7505874E21EDF94B5FF8AF0D6F39A2.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Content/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3.uasset'
 [2022.12.20-14.09.33:234][ 72]AssetCheck: New page: Asset Save: Militair_wagon_v3
 [2022.12.20-14.09.33:234][ 72]LogContentValidation: Display: Validating StaticMesh /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3.Militair_wagon_v3
+[2022.12.20-14.10.06:348][307]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3_Flatbed_BaseColor.Militair_wagon_v3_Flatbed_BaseColor
+[2022.12.20-14.10.06:371][307]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.12.20-14.10.06:451][307]LogViewport: Scene viewport resized to 929x808, mode Windowed.
+[2022.12.20-14.10.10:335][531]LogTexture: Display: Building textures: /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3_Flatbed_BaseColor.Militair_wagon_v3_Flatbed_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2022.12.20-14.10.13:951][586]LogSavePackage: Moving output files for package: /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3_Flatbed_BaseColor
+[2022.12.20-14.10.13:951][586]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/Militair_wagon_v3_Flatbed_BaseCo9D184C3741165F98CAAF84B49D7BF835.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Content/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3_Flatbed_BaseColor.uasset'
+[2022.12.20-14.10.13:965][586]AssetCheck: New page: Asset Save: Militair_wagon_v3_Flatbed_BaseColor
+[2022.12.20-14.10.13:965][586]LogContentValidation: Display: Validating Texture2D /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3_Flatbed_BaseColor.Militair_wagon_v3_Flatbed_BaseColor
+[2022.12.20-14.10.25:455][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.20-14.10.25:479][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.12.20-14.10.25:481][972]LogSavePackage: Moving output files for package: /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/MI_FlatbedWithTank_Tank
+[2022.12.20-14.10.25:482][972]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/MI_FlatbedWithTank_Tank43C46C7445B83E7CFD8D93AA54772B4E.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Content/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/MI_FlatbedWithTank_Tank.uasset'
+[2022.12.20-14.10.25:494][972]AssetCheck: New page: Asset Save: MI_FlatbedWithTank_Tank
+[2022.12.20-14.10.25:494][972]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/MI_FlatbedWithTank_Tank.MI_FlatbedWithTank_Tank
+[2022.12.20-14.10.32:012][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.12.20-14.10.32:035][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.20-14.10.32:037][185]LogSavePackage: Moving output files for package: /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/MI_FlatbedWithTank_Flatbed1
+[2022.12.20-14.10.32:038][185]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/MI_FlatbedWithTank_Flatbed114D74A9E4EB9ED60667C7D97BC555D9D.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Content/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/MI_FlatbedWithTank_Flatbed1.uasset'
+[2022.12.20-14.10.32:052][185]AssetCheck: New page: Asset Save: MI_FlatbedWithTank_Flatbed1
+[2022.12.20-14.10.32:052][185]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/MI_FlatbedWithTank_Flatbed1.MI_FlatbedWithTank_Flatbed1
+[2022.12.20-14.10.48:157][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.12.20-14.10.48:180][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.20-14.10.48:183][721]LogSavePackage: Moving output files for package: /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithCrates/MI_FlatbedWithTank_Flatbed
+[2022.12.20-14.10.48:183][721]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/MI_FlatbedWithTank_FlatbedCAAB815F4581177025B14B9CEEAB8DBE.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Content/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithCrates/MI_FlatbedWithTank_Flatbed.uasset'
+[2022.12.20-14.10.48:197][721]AssetCheck: New page: Asset Save: MI_FlatbedWithTank_Flatbed
+[2022.12.20-14.10.48:197][721]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithCrates/MI_FlatbedWithTank_Flatbed.MI_FlatbedWithTank_Flatbed
+[2022.12.20-14.11.06:606][365]Cmd: TRANSACTION UNDO
+[2022.12.20-14.11.06:606][365]LogEditorTransaction: Undo Edit 5
+[2022.12.20-14.11.16:004][653]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Adjusted/Flatbed/FlatbedWithTank_Adjusted.FlatbedWithTank_Adjusted
+[2022.12.20-14.11.16:023][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.20-14.11.16:405][653]LogViewport: Scene viewport resized to 845x812, mode Windowed.
+[2022.12.20-14.11.41:195][458]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithCrates/Flatbed_with_crates) ...
+[2022.12.20-14.11.42:687][494]LogSavePackage: Moving output files for package: /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithCrates/Flatbed_with_crates
+[2022.12.20-14.11.42:689][494]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/Flatbed_with_crates1DD2229B4B896D8BB92323B62178C55E.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Content/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithCrates/Flatbed_with_crates.uasset'
+[2022.12.20-14.11.42:709][494]AssetCheck: New page: Asset Save: Flatbed_with_crates
+[2022.12.20-14.11.42:709][494]LogContentValidation: Display: Validating StaticMesh /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithCrates/Flatbed_with_crates.Flatbed_with_crates
+[2022.12.20-14.11.43:548][521]LogEditorFactories: Performing atomic reimport of [//FRANKI/XRLab/07. SchoolTV/02_3DModels/18.FlatbedWithCrates/4. Final/Flatbed with crates.fbx]
+[2022.12.20-14.11.44:300][521]LogFbx: Loading FBX Scene from //FRANKI/XRLab/07. SchoolTV/02_3DModels/18.FlatbedWithCrates/4. Final/Flatbed with crates.fbx
+[2022.12.20-14.11.44:365][521]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.20-14.11.44:692][521]LogFbx: Display: Triangulating static mesh crate1
+[2022.12.20-14.11.44:772][521]LogFbx: Display: Triangulating static mesh crate2
+[2022.12.20-14.11.44:860][521]LogFbx: Display: Triangulating static mesh Flatbed
+[2022.12.20-14.11.46:693][521]LogStaticMesh: Display: Building static mesh Flatbed_with_crates...
+[2022.12.20-14.11.47:607][521]LogStaticMesh: Built static mesh [0.91s] /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithCrates/Flatbed_with_crates.Flatbed_with_crates
+[2022.12.20-14.11.47:917][521]LogEditorFactories: -- imported successfully
+[2022.12.20-14.11.47:924][521]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Crate_v01_lambert1_Normal' was renamed 'Crate_v01_lambert1_Normal_ncl1_1' 
+[2022.12.20-14.11.47:924][521]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.12.20-14.11.47:946][521]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithCrates/Flatbed_with_crates) ...
+[2022.12.20-14.12.08:895][249]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3) ...
+[2022.12.20-14.12.13:068][330]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3) ...
+[2022.12.20-14.12.34:658][ 61]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3) ...
+[2022.12.20-14.12.35:772][ 79]LogEditorFactories: Performing atomic reimport of [//FRANKI/XRLab/07. SchoolTV/02_3DModels/19.FlatbedWithTank/4. Final/Militair_wagon_v3.fbx]
+[2022.12.20-14.12.36:485][ 79]LogFbx: Loading FBX Scene from //FRANKI/XRLab/07. SchoolTV/02_3DModels/19.FlatbedWithTank/4. Final/Militair_wagon_v3.fbx
+[2022.12.20-14.12.36:613][ 79]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.20-14.12.37:482][ 79]LogFbx: Display: Triangulating static mesh TANK_1
+[2022.12.20-14.12.40:477][ 79]LogFbx: Display: Triangulating static mesh Flatbed
+[2022.12.20-14.12.42:300][ 79]LogStaticMesh: Display: Building static mesh Militair_wagon_v3...
+[2022.12.20-14.12.44:643][ 79]LogStaticMesh: Built static mesh [2.34s] /Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3.Militair_wagon_v3
+[2022.12.20-14.12.45:521][ 79]LogEditorFactories: -- imported successfully
+[2022.12.20-14.12.45:540][ 79]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.12.20-14.12.45:569][ 79]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/Militair_wagon_v3) ...
+[2022.12.20-14.13.24:751][338]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/SQ_Sequencers/SH001.SH001
+[2022.12.20-14.13.24:779][338]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.12.20-14.13.24:779][338]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.12.20-14.14.21:406][  9]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:01F7
+[2022.12.20-14.14.21:406][  9]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:0362
+[2022.12.20-14.14.43:968][835]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:01F7
+[2022.12.20-14.14.43:968][835]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:0362
+[2022.12.20-14.15.22:739][129]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:01F7
+[2022.12.20-14.15.22:739][129]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:0362
+[2022.12.20-14.15.23:158][131]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:01F7
+[2022.12.20-14.15.23:158][131]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:0362
+[2022.12.20-14.15.23:158][131]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:01F7
+[2022.12.20-14.15.23:158][131]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:0362
+[2022.12.20-14.15.28:041][280]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:01F7
+[2022.12.20-14.15.28:041][280]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Cart_C /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2:PersistentLevel.BP_Cart_C_1
+	Function /Game/BP_BluePrints/BP_Cart.BP_Cart_C:UserConstructionScript:0362
+[2022.12.20-14.16.25:572][179]LogViewport: Scene viewport resized to 974x548, mode Windowed.
+[2022.12.20-14.18.00:120][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.12.20-14.18.00:502][718]LogSavePackage: Moving output files for package: /Game/MA_Maps/MA_MainMapV2
+[2022.12.20-14.18.00:503][718]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/MA_MainMapV2FF28268340E4A570B9EA9BAA8AD4DF63.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Content/MA_Maps/MA_MainMapV2.umap'
+[2022.12.20-14.18.00:584][718]AssetCheck: New page: Asset Save: MA_MainMapV2
+[2022.12.20-14.18.00:584][718]LogContentValidation: Display: Validating World /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2
+[2022.12.20-14.18.12:776][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.20-14.18.13:083][102]LogSavePackage: Moving output files for package: /Game/MA_Maps/MA_MainMapV2
+[2022.12.20-14.18.13:083][102]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/MA_MainMapV297C83047406FFD95F61296A86CC396B8.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Content/MA_Maps/MA_MainMapV2.umap'
+[2022.12.20-14.18.13:160][102]AssetCheck: New page: Asset Save: MA_MainMapV2
+[2022.12.20-14.18.13:160][102]LogContentValidation: Display: Validating World /Game/MA_Maps/MA_MainMapV2.MA_MainMapV2
