@@ -1640,3 +1640,12 @@ Reference List:
 [2022.12.20-14.28.15:949][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/MI_FlatbedWithTank_Flatbed1_Auto1
 [2022.12.20-14.28.15:949][579]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/MI_FlatbedWithTank_Flatbed1_Auto324EB5414A37F40BD1B8988F442A9F30.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/Autosaves/Game/SM_StaticMeshes/Vehicles/TrainsAssets/Flatbed_WithTank/MI_FlatbedWithTank_Flatbed1_Auto1.uasset'
 [2022.12.20-14.28.15:950][579]LogFileHelpers: Auto-saving content packages took 1.888
+[2022.12.20-14.35.09:996][939]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/SQ_Sequencers/SH004.SH004
+[2022.12.20-14.35.10:016][939]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.12.20-14.35.10:017][939]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.12.20-14.35.17:978][175]LogViewport: Scene viewport resized to 974x548, mode Windowed.
+[2022.12.20-14.38.16:913][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.12.20-14.38.17:275][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MA_Maps/MA_MainMapV2_Auto2
+[2022.12.20-14.38.17:275][811]LogSavePackage: Moving '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/MA_MainMapV2_Auto262B0611E43299DDDAA6B49AEDA8A737B.tmp' to '../../../../../../Users/Student2022/OneDrive - Saxion/Documents/GitHub/IMTS-SchoolTV/Project/Saved/Autosaves/Game/MA_Maps/MA_MainMapV2_Auto2.umap'
+[2022.12.20-14.38.17:336][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MA_Maps/MA_MainMapV2' took 1.177
+[2022.12.20-14.38.17:336][811]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.177
