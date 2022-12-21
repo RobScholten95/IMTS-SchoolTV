@@ -1,0 +1,370 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef FOUNDRYSERVER_FoundryCustomRenderPasses_generated_h
+#error "FoundryCustomRenderPasses.generated.h already included, missing '#pragma once' in FoundryCustomRenderPasses.h"
+#endif
+#define FOUNDRYSERVER_FoundryCustomRenderPasses_generated_h
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_SPARSE_DATA
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_RPC_WRAPPERS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_Unlit(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_Unlit_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_Unlit, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_Unlit)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_INCLASS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_Unlit(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_Unlit_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_Unlit, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_Unlit)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFoundryDeferredPass_Unlit(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFoundryDeferredPass_Unlit) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_Unlit); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_Unlit); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_Unlit(UFoundryDeferredPass_Unlit&&); \
+	NO_API UFoundryDeferredPass_Unlit(const UFoundryDeferredPass_Unlit&); \
+public:
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_Unlit(UFoundryDeferredPass_Unlit&&); \
+	NO_API UFoundryDeferredPass_Unlit(const UFoundryDeferredPass_Unlit&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_Unlit); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_Unlit); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFoundryDeferredPass_Unlit)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_9_PROLOG
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_RPC_WRAPPERS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_INCLASS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_12_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> FOUNDRYSERVER_API UClass* StaticClass<class UFoundryDeferredPass_Unlit>();
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_SPARSE_DATA
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_RPC_WRAPPERS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_DetailLighting(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_DetailLighting_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_DetailLighting, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_DetailLighting)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_INCLASS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_DetailLighting(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_DetailLighting_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_DetailLighting, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_DetailLighting)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFoundryDeferredPass_DetailLighting(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFoundryDeferredPass_DetailLighting) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_DetailLighting); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_DetailLighting); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_DetailLighting(UFoundryDeferredPass_DetailLighting&&); \
+	NO_API UFoundryDeferredPass_DetailLighting(const UFoundryDeferredPass_DetailLighting&); \
+public:
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_DetailLighting(UFoundryDeferredPass_DetailLighting&&); \
+	NO_API UFoundryDeferredPass_DetailLighting(const UFoundryDeferredPass_DetailLighting&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_DetailLighting); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_DetailLighting); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFoundryDeferredPass_DetailLighting)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_32_PROLOG
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_RPC_WRAPPERS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_INCLASS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_35_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> FOUNDRYSERVER_API UClass* StaticClass<class UFoundryDeferredPass_DetailLighting>();
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_SPARSE_DATA
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_RPC_WRAPPERS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_LightingOnly(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_LightingOnly_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_LightingOnly, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_LightingOnly)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_INCLASS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_LightingOnly(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_LightingOnly_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_LightingOnly, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_LightingOnly)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFoundryDeferredPass_LightingOnly(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFoundryDeferredPass_LightingOnly) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_LightingOnly); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_LightingOnly); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_LightingOnly(UFoundryDeferredPass_LightingOnly&&); \
+	NO_API UFoundryDeferredPass_LightingOnly(const UFoundryDeferredPass_LightingOnly&); \
+public:
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_LightingOnly(UFoundryDeferredPass_LightingOnly&&); \
+	NO_API UFoundryDeferredPass_LightingOnly(const UFoundryDeferredPass_LightingOnly&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_LightingOnly); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_LightingOnly); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFoundryDeferredPass_LightingOnly)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_56_PROLOG
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_RPC_WRAPPERS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_INCLASS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_59_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> FOUNDRYSERVER_API UClass* StaticClass<class UFoundryDeferredPass_LightingOnly>();
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_SPARSE_DATA
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_RPC_WRAPPERS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_ReflectionsOnly(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_ReflectionsOnly_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_ReflectionsOnly, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_ReflectionsOnly)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_INCLASS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_ReflectionsOnly(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_ReflectionsOnly_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_ReflectionsOnly, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_ReflectionsOnly)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFoundryDeferredPass_ReflectionsOnly(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFoundryDeferredPass_ReflectionsOnly) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_ReflectionsOnly); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_ReflectionsOnly); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_ReflectionsOnly(UFoundryDeferredPass_ReflectionsOnly&&); \
+	NO_API UFoundryDeferredPass_ReflectionsOnly(const UFoundryDeferredPass_ReflectionsOnly&); \
+public:
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_ReflectionsOnly(UFoundryDeferredPass_ReflectionsOnly&&); \
+	NO_API UFoundryDeferredPass_ReflectionsOnly(const UFoundryDeferredPass_ReflectionsOnly&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_ReflectionsOnly); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_ReflectionsOnly); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFoundryDeferredPass_ReflectionsOnly)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_80_PROLOG
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_RPC_WRAPPERS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_INCLASS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_83_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> FOUNDRYSERVER_API UClass* StaticClass<class UFoundryDeferredPass_ReflectionsOnly>();
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_SPARSE_DATA
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_RPC_WRAPPERS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_PathTracer(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_PathTracer_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_PathTracer, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_PathTracer)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_INCLASS \
+private: \
+	static void StaticRegisterNativesUFoundryDeferredPass_PathTracer(); \
+	friend struct Z_Construct_UClass_UFoundryDeferredPass_PathTracer_Statics; \
+public: \
+	DECLARE_CLASS(UFoundryDeferredPass_PathTracer, UFoundryCustomDeferredPass, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FoundryServer"), NO_API) \
+	DECLARE_SERIALIZER(UFoundryDeferredPass_PathTracer)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFoundryDeferredPass_PathTracer(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFoundryDeferredPass_PathTracer) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_PathTracer); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_PathTracer); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_PathTracer(UFoundryDeferredPass_PathTracer&&); \
+	NO_API UFoundryDeferredPass_PathTracer(const UFoundryDeferredPass_PathTracer&); \
+public:
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFoundryDeferredPass_PathTracer(UFoundryDeferredPass_PathTracer&&); \
+	NO_API UFoundryDeferredPass_PathTracer(const UFoundryDeferredPass_PathTracer&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFoundryDeferredPass_PathTracer); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFoundryDeferredPass_PathTracer); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFoundryDeferredPass_PathTracer)
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_103_PROLOG
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_RPC_WRAPPERS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_INCLASS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_SPARSE_DATA \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h_106_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> FOUNDRYSERVER_API UClass* StaticClass<class UFoundryDeferredPass_PathTracer>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_HostProject_Plugins_NukeServer_Source_FoundryServer_Public_FoundryCustomRenderPasses_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

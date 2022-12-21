@@ -1,0 +1,9 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"FoundryCryptomattePass": "UnrealEditor-FoundryCryptomattePass.dll",
+		"FoundryServer": "UnrealEditor-FoundryServer.dll",
+		"FoundrySharedUtils": "UnrealEditor-FoundrySharedUtils.dll"
+	}
+}

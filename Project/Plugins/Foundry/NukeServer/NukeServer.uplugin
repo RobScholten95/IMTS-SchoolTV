@@ -1,0 +1,45 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.0v2",
+	"FriendlyName": "Nuke Server",
+	"Description": "Allows a server to be started which can be connected to from Nuke. Nuke can then utilize the Movie Render Pipeline to render images and get the chosen render passes back. Includes additional render passes and settings to the Movie Render Pipeline.",
+	"Category": "Foundry",
+	"CreatedBy": "Foundry",
+	"CreatedByURL": "https://www.foundry.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"IsExperimentalVersion": true,
+	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Linux",
+		"Mac",
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "FoundryServer",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "FoundryCryptomattePass",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "FoundrySharedUtils",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,11 @@
+prefix=T:/0/.conan/data/Protobuf/3.8.0/backup/CL551514/package/63da998e3642b50bee33f4449826b2d623661505
+exec_prefix=T:/0/.conan/data/Protobuf/3.8.0/backup/CL551514/package/63da998e3642b50bee33f4449826b2d623661505
+libdir=T:/0/.conan/data/Protobuf/3.8.0/backup/CL551514/package/63da998e3642b50bee33f4449826b2d623661505/lib
+includedir=T:/0/.conan/data/Protobuf/3.8.0/backup/CL551514/package/63da998e3642b50bee33f4449826b2d623661505/include
+
+Name: Protocol Buffers
+Description: Google's Data Interchange Format
+Version: 3.8.0.0
+Libs: -L${libdir} -lprotobuf-lite 
+Cflags: -I${includedir} 
+Conflicts: protobuf
